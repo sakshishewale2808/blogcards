@@ -1,0 +1,55 @@
+.container{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+   
+.blogcard{
+    background-color:burlywood;
+    color:black;
+    width:auto;
+    height: 220px;
+    border-radius: 20px;
+    padding:10px;
+    box-shadow: 0 0 10px orange;
+    border: 1px solid orangered;
+    margin: 10px;
+    text-decoration: none;
+}
+}
+.title{
+    text-align: center;
+    color:rgb(190, 14, 14);
+    margin:0;
+    padding: 0;
+    
+}
+.pre-content{
+    font-size: 20px;
+    padding: 0;
+}
+.founder{
+    display: flex;
+    align-items: center;
+    margin: 2px 15px;
+}
+.avatar{
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+.founder-name{
+    font-style: italic;
+    font-size: 15px;
+    margin:0 10px;
+}
+.date{
+    font-size: 20px;
+}
+.Technology{
+    background: whitesmoke;
+    color: black;
+    margin :7px 15px;
+    padding:2px 10px;
+    border-radius: 10px;
+}
